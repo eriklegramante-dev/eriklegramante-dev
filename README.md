@@ -37,8 +37,7 @@
 
 ### 📊 System Analytics
 <div align="center">
-  <img src="https://metrics.lecoq.io/eriklegramante-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.talkative=false" alt="Stats">
-  <br>
+  ![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eriklegramante-dev&show_icons=true&theme=tokyonight)  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eriklegramante-dev&theme=tokyonight" alt="Streak">
 </div>
 
