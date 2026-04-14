@@ -37,7 +37,7 @@
 
 ### 📊 System Analytics
 <div align="center">
-  ![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eriklegramante-dev&show_icons=true&theme=tokyonight)  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eriklegramante-dev&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eriklegramante-dev&theme=tokyonight" alt="Streak">
 </div>
 
