@@ -1,16 +1,48 @@
-## Hi there 👋
+# 📟 <eriklegramante-dev />
 
-<!--
-**eriklegramante-dev/eriklegramante-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=39FF14&height=200&section=header&text=AI%20%26%20Cybersecurity&fontSize=60&animation=twinkling" width="100%">
 
-Here are some ideas to get you started:
+  <p><i>"Advancing the intersection of Machine Learning and System Integrity."</i></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=AI+Security+Researcher;Developing+Anti-Cheat+Systems;Building+Atlas+AI;TensorFlow+%26+Deep+Learning;Computer+Vision+Expert)](https://git.io/typing-svg)
+</div>
+
+---
+
+### 🧠 Artificial Intelligence & Computer Vision
+- **Specialization:** Deep Learning models for anomaly detection and image processing.
+- **Frameworks:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+- **Atlas AI:** Currently developing **Atlas**, a virtual assistant utilizing real-time Computer Vision (YOLOv8) and a custom Pygame-based UI.
+
+### 🛡️ Cybersecurity & Anti-Cheat Research
+- **Anti-Cheat Dev:** Researching memory integrity, heuristic analysis, and kernel-level interactions to prevent game manipulation.
+- **Malware Detection:** Utilizing Neural Networks (TensorFlow/Scikit-learn) to identify polymorphic threats and malicious behavior.
+- **OS Environment:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Power User.
+
+---
+
+### 🚀 Key Projects
+| Repository | Focus | Tech Stack |
+| :--- | :--- | :--- |
+| **Atlas-AI** | Intelligent Virtual Assistant | Python / TensorFlow / Pygame |
+| **Anti-Cheat-Lab** | Integrity & Behavioral Analysis | C++ / Python / Low-level |
+| **Android-Threat-Scanner** | ML-Based Malware Detection | Scikit-learn / Python |
+| **Vision-Scripts** | YOLOv8 Implementations | Ultralytics / OpenCV |
+
+---
+
+### 📊 System Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eriklegramante-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eriklegramante-dev&theme=tokyonight" alt="Streak">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXlxZ3R3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Y4pAQv58ETJgRwoLxj/giphy.gif" width="120px">
+  <br>
+  <sub>"The quieter you become, the more you are able to hear."</sub>
+</div>
