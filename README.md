@@ -1,7 +1,7 @@
 # 📟 <eriklegramante-dev />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=39FF14&height=200&section=header&text=AI%20%26%20Cybersecurity&fontSize=60&animation=twinkling](https://capsule-render.vercel.app/render?type=glitch&color=39FF14&height=200&section=header&text=AI%20%26%20Cybersecurity&fontSize=60&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=39FF14&height=200&section=header&text=AI%20%26%20Cybersecurity&fontSize=60&animation=twinkling" width="100%">
 
   <p><i>"Advancing the intersection of Machine Learning and System Integrity."</i></p>
 
@@ -34,7 +34,7 @@
 
 ### 📊 System Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eriklegramante-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Stats">
+  <img src="https://metrics.lecoq.io/eriklegramante-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.talkative=false" alt="Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eriklegramante-dev&theme=tokyonight" alt="Streak">
 </div>
