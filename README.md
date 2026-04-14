@@ -1,7 +1,7 @@
 # 📟 <eriklegramante-dev />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=39FF14&height=200&section=header&text=AI%20%26%20Cybersecurity&fontSize=60&animation=twinkling" width="100%">
+  <img src="(https://canva.link/i3jn9cy00yac47a)" width="100%">
 
   <p><i>"Advancing the intersection of Machine Learning and System Integrity."</i></p>
 
