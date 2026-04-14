@@ -3,7 +3,7 @@
 <div align="center">
   
 <div align="center">
-  <img src="header.gif" width="100%" alt="AI & Cybersecurity Banner">
+  <img src="header3.gif" width="100%" alt="AI & Cybersecurity Banner">
 </div>
 
   <p><i>"Advancing the intersection of Machine Learning and System Integrity."</i></p>
