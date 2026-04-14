@@ -1,9 +1,10 @@
 # 📟 <eriklegramante-dev />
 
 <div align="center">
-  <div align="center">
-    <video src="banner.mp4" width="100%" autoplay loop muted playsinline></video>
-  </div>
+  
+<div align="center">
+  <img src="header.gif" width="100%" alt="AI & Cybersecurity Banner">
+</div>
 
   <p><i>"Advancing the intersection of Machine Learning and System Integrity."</i></p>
 
