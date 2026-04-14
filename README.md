@@ -1,7 +1,9 @@
 # 📟 <eriklegramante-dev />
 
 <div align="center">
-  <img src="(https://canva.link/i3jn9cy00yac47a)" width="100%">
+  <div align="center">
+    <video src="banner.mp4" width="100%" autoplay loop muted playsinline></video>
+  </div>
 
   <p><i>"Advancing the intersection of Machine Learning and System Integrity."</i></p>
 
