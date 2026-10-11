@@ -47,7 +47,7 @@
 
 | Project | Description | Stack |
 |:---:|:---|:---|
-| ⚡ **[ATLAS Assistant](https://github.com/eriklegramante-dev/atlas)** | Autonomous, local voice assistant for Linux with graph-based NLP, secure memory persistence, and redundant AI failovers | Python · Linux · OSINT · Graph NLP |
+| ⚡ **[ATLAS Assistant](https://github.com/eriklegramante-dev/atlas)** | Autonomous, local voice assistant for Linux with graph-based NLP, secure memory persistence, and redundant AI failovers | Python · Linux · Graph NLP |
 | 🧮 **[SYNTH_MATH // 1984](https://github.com/eriklegramante-dev/synth-math)** | Full-stack Synthwave AI platform powered by multi-agent workflows (CrewAI, Groq, Gemini) and containerized architecture | Python · FastAPI · CrewAI · Next.js · Docker |
 | 🐾 **[Cats vs Dogs Classifier](https://github.com/eriklegramante-dev/cats-vs-dogs-cnn)** | End-to-end binary computer vision pipeline built with Convolutional Neural Networks (CNNs), data augmentation, and model benchmarking | Python · TensorFlow · Keras · NumPy · Pandas |
 | ❄️ **[Dotfiles — Arch Hyprland](https://github.com/eriklegramante-dev/dotfiles)** | Distraction-free, aesthetic Wayland desktop environment featuring translucent floating UI, custom scripts, and a cold pastel palette | Arch Linux · Hyprland · Bash · Lua |
